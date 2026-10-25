@@ -11,3 +11,4 @@ This repository demonstrates:
 - Git merge and rebase
 - Resolving conflicts
 - GitHub push and pull
+Updated README for git pull rebase demonstration.
