@@ -12,3 +12,4 @@ This repository demonstrates:
 - Resolving conflicts
 - GitHub push and pull
 Updated README for git pull rebase demonstration.
+Git stash demonstration: Remote changes from GitHub.
