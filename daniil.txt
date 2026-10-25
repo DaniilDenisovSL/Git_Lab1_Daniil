@@ -3,3 +3,4 @@ delete
 branch
 Test rebase from dev branch
 Commit - 2: Changes from dev branch
+Commit - 4: Changes from dev branch
