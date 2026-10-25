@@ -1,0 +1,13 @@
+# Git Lab 1
+
+Laboratory work: Collaborative Software Development with Git.
+
+Author: Daniil Denisov
+
+This repository demonstrates:
+- Git configuration
+- Creating commits
+- Working with branches
+- Git merge and rebase
+- Resolving conflicts
+- GitHub push and pull
