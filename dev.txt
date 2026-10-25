@@ -1,3 +1,4 @@
 Changes from dev branch
 Changes from master branch
 Commit - 3: Changes from master branch
+Merge - 3: Changes from master branch
