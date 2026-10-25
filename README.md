@@ -13,3 +13,5 @@ This repository demonstrates:
 - GitHub push and pull
 Updated README for git pull rebase demonstration.
 Git stash demonstration: Remote changes from GitHub.
+
+Second stash changes in README.md
